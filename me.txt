@@ -1,4 +1,6 @@
 Hi this is a test script by Ke Chen.
 He is a PDI in PO department at WHOI.
-He does numerical modeling.
+He does numerical modeling, especially realistic simulation.
+He is also interested in data assimilation.
+
 
